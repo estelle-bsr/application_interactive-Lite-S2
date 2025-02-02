@@ -1,0 +1,5 @@
+# Exclure les fichiers Eclipse
+.metadata/
+*.log
+*.prefs
+*.txt
